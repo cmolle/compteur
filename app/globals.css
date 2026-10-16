@@ -19,6 +19,13 @@
   }
 }
 
+h1 {
+  font-size: 48px;
+  margin: 20px 0;
+  border: 2px solid #FFFFFF;
+  padding: 10px;
+}
+
 body {
   font-family: Arial, sans-serif;
   text-align: center;
